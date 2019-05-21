@@ -1,3 +1,4 @@
 # Pong
-A Pong game developed in Java
-Class Game is the main class.
+A Pong game developed in Java.
+
+The class named Game contains the main function.
